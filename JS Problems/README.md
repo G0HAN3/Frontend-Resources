@@ -33,6 +33,5 @@
 - Question 29: JavaScript Write a JavaScript program that allows two players to play the game of Rock, Paper, Scissors.
 
 
-- More Questions to be added soon!
 
 #### Credits - [Diwakar Kumar](https://github.com/diwakar1593/JavaScript-Problem)
